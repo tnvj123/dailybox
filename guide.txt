@@ -1,0 +1,13 @@
+'''
+data/
+├── additional_train/ # 추가데이터
+│   ├── edited/
+│   └── unedited/
+├── test/ # 테스트
+│   ├── edited/
+│   └── unedited/
+├── train/ # 학습데이터
+│   ├── edited/
+│   └── unedited/
+└── validation/ # 검증
+'''
